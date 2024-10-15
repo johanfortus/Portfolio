@@ -122,9 +122,7 @@ a {
     margin-right: 16px;
 }
 
-.project-description-para {
-    margin: 16px 0;
-}
+
 
 /* Desktops */
 @media (max-width: 992px) {
