@@ -57,9 +57,20 @@ input {
 .skill {
     transition: all 300ms ease;
 }
-
+.skill:hover .skill-name {
+    transform: scale(1);
+}
 .skill:hover {
     transform: scale(0.9);
+    filter: brightness(80%);
+}
+
+.skill-name {
+    transform: scale(0);
+    transition: all 300ms ease;
+}
+.skill-name:hover {
+    transform: scale(1);
 }
 
 .project {
