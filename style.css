@@ -54,7 +54,13 @@ input {
         transform: translateY(-3px);
     }
 }
+.skill {
+    transition: all 300ms ease;
+}
 
+.skill:hover {
+    transform: scale(0.9);
+}
 
 .project {
     margin-bottom: 135px;
