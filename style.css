@@ -10,6 +10,13 @@ a {
 input {
     outline: none !important;
 }
+
+.nav-light {
+    color: black;
+}
+.nav-dark {
+    color: white;
+}
 .johan-text {
     font-size: 90px;
 }
@@ -17,7 +24,6 @@ input {
 .hero-text {
     font-size: 35px;
 }
-
 
 .click {
     cursor: pointer;
