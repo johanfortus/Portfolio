@@ -169,6 +169,9 @@ input {
     .emoji-img {
         border-radius: 50%;
     }
+    .project-description {
+        left: 140px;
+    }
 }
 
 
