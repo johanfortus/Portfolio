@@ -163,6 +163,9 @@ input {
 
 /* Mobile Devices */
 @media (max-width: 576px) {
+    .johan-text {
+        font-size: 50px;
+    }
     .hero-text {
         font-size: 25px;
     }
