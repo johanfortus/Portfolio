@@ -173,7 +173,8 @@ input {
         border-radius: 50%;
     }
     .project-description {
-        left: 140px;
+        position: absolute;
+        left: 27%;
     }
 }
 
