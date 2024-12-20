@@ -173,7 +173,7 @@ input {
         font-size: 25px;
     }
     .hero-subheading {
-        font-size: 22px;
+        font-size: 25px;
     }
     .emoji-img {
         border-radius: 50%;
@@ -181,6 +181,13 @@ input {
     .project-description {
         position: absolute;
         left: 100px;
+    }
+}
+
+/* Even Smaller Mobile Devices */
+@media (max-width: 576px) {
+    .hero-subheading {
+        font-size: 20px;
     }
 }
 
